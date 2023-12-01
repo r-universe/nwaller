@@ -5,6 +5,9 @@
 [submodule "FMP"]
 	path = FMP
 	url = https://github.com/cran/FMP
+[submodule "TaylorRussell"]
+	path = TaylorRussell
+	url = https://github.com/cran/TaylorRussell
 [submodule "fungible"]
 	path = fungible
 	url = https://github.com/cran/fungible
